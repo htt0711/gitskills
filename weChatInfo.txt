@@ -1,0 +1,5 @@
+微信开发APP ID：wx09805047c983ce01
+	
+和风天气开发者ID：d40f894c0a8d4425b5a66b963a8d6717
+查询城市信息：https://geoapi.heweather.net/v2/city/lookup?location=beijing&key=d40f894c0a8d4425b5a66b963a8d6717
+查询天气信息：https://devapi.heweather.net/v7/weather/now?location=101010100&key=d40f894c0a8d4425b5a66b963a8d6717
